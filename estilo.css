@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: overline line-through underline;           
+    color: rgba(1, 1, 80, 0.411);
+}
+li{
+    /*border: double 3px #000000;*/
+    /*inset double solid dotted-- tipos de bordas */
+    text-align: left;
+	font-size: 23px;
+}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: center;
+	color: black;
+	background-color: yellow;
+	text-decoration: underline;
+	font-size: 20px;
+} 
+body {
+	border: double 3px #000000;
+}
